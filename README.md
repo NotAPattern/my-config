@@ -1,12 +1,14 @@
 # I'm in
-  - [mail](mailto:nikita.karatsev@gmail.com)
-  - [telegram](t.me/whoisrpivalov)
-  - [vk](vk.com/whoisprivalov)
-  - [gitlab](gitlab.com/WhoIsPrivalov)
-  - [github](github.com/WhoIsPrivalov)
   - [codeforces](codeforces.com/profile/WhoIsPrivalov)
   - [codewars](www.codewars.com/users/WhoIsPrivalov)
-  - [spotify]()  
+  - [github](github.com/WhoIsPrivalov)
+  - [gitlab](gitlab.com/WhoIsPrivalov)
+  - [mail](mailto:nikita.karatsev@gmail.com)
+  - [medium](medium.com/@whoisprivalov)
+  - [telegram](t.me/whoisrpivalov)
+  - [spotify](open.spotify.com/user/ilz2empiateqi06y9t6nvu3nv)  
+  - [vk](vk.com/whoisprivalov)
+  
 
 # About
 I'm a Bachelor student at Omsk State University in CS.  
@@ -19,3 +21,5 @@ Remember, remember, no geography"
 "Well, that was some experience
 Now just let me adjust the spacial controls
 And we'll move to another observation point"  
+
+nullptr
