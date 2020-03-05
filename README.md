@@ -1,4 +1,4 @@
-#I'm in
+# I'm in
   - [mail](mailto:nikita.karatsev@gmail.com)
   - [telegram](t.me/whoisrpivalov)
   - [vk](vk.com/whoisprivalov)
@@ -7,8 +7,6 @@
   - [codeforces](codeforces.com/profile/WhoIsPrivalov)
   - [codewars](www.codewars.com/users/WhoIsPrivalov)
   - [spotify]()
-
----
 
 # About
 
