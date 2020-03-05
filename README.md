@@ -6,10 +6,11 @@
   - [github](github.com/WhoIsPrivalov)
   - [codeforces](codeforces.com/profile/WhoIsPrivalov)
   - [codewars](www.codewars.com/users/WhoIsPrivalov)
-  - [spotify]()
+  - [spotify]()  
 
 # About
-
+I'm a Bachelor student at Omsk State University in CS.  
+  
 Love Windows 10 Mobile, like Windows Phone 8(8.1), hate Microsoft.  
   
 "If you ever change your mind about leaving it all behind  
