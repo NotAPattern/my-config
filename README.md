@@ -14,8 +14,10 @@
 # About
 I'm a Bachelor student at Omsk State University in CS.  
   
-Love Windows 10 Mobile, like Windows Phone 8(8.1), hate Microsoft.  
+Love Windows 10 Mobile, like Windows Phone 8(8.1), Spotify, hate Microsoft.
   
+I'm currently studying Rust.  
+
 "Well, that was some experience
 Now just let me adjust the spacial controls
 And we'll move to another observation point"  
