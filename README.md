@@ -7,7 +7,7 @@
   - [mail](mailto:nikita.karatsev@gmail.com "Gmail")
   - [medium](https://www.medium.com/@onethegraph "Medium")
   - [telegram](https://www.t.me/onethegraph "Telegram")
-  - [spotify](https://www.open.spotify.com/user/ilz2empiateqi06y9t6nvu3nv "Spotify")  
+  - [spotify](https://open.spotify.com/user/ilz2empiateqi06y9t6nvu3nv "Spotify")  
   - [vk](https://www.vk.com/onethegraph "VK")
   
 # About
