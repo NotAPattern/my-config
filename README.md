@@ -11,11 +11,13 @@
   - [vk](https://www.vk.com/onethegraph "VK")
   
 # About
-I'm a Bachelor student at Omsk State University in CS.  
-  
-Love Windows 10 Mobile, like Windows Phone 8(8.1), Spotify, hate Microsoft.
-  
-I'm currently studying Rust.  
+I have a Bachelor degree at Omsk State University, speciality: "Mathematics and CS".
+
+Love Windows 10 Mobile, like Windows Phone 8(8.1), Spotify. Hate Microsoft (without negative).
+
+I'm currently studying Rust. In the future I plan to study Erlang/Elixir.
+
+I dream of getting a job in Yandex.
 
 "Well, that was some experience
 Now just let me adjust the spacial controls
