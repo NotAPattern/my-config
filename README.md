@@ -15,7 +15,7 @@ I have a Bachelor degree at Omsk State University, speciality: "Mathematics and 
 
 Love Windows 10 Mobile, like Windows Phone 8(8.1), Spotify. Hate Microsoft (without negative).
 
-I'm currently studying Rust. In the future I plan to study Erlang/Elixir.
+I'm currently studying Rust, in the future study Erlang/Elixir.
 
 I dream of getting a job in Yandex.
 
