@@ -7,7 +7,7 @@
   - [mail](mailto:nikita.karatsev@gmail.com "Gmail")
   - [medium](https://www.medium.com/@notapattern "Medium")
   - [telegram](https://www.t.me/NotAPattern "Telegram")
-	- [twitch](https://www.twitch.tv/notapattern "Twitch")
+  - [twitch](https://www.twitch.tv/notapattern "Twitch")
   - [spotify](https://open.spotify.com/user/ilz2empiateqi06y9t6nvu3nv "Spotify")  
   - [vk](https://www.vk.com/NotAPattern "VK")
   
