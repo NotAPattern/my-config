@@ -1,17 +1,18 @@
 # I'm in
   - [codeforces](https://www.codeforces.com/profile/WhoIsPrivalov "Codeforces (sponsored by Telegram)")
-  - [codewars](https://www.codewars.com/users/OneTheGraph "Codewars")
-  - [instagram](https://www.instagram.com/onethegraph "Instagram")
-  - [github](https://www.github.com/OneTheGraph "GitHub")
-  - [gitlab](https://www.gitlab.com/OneTheGraph "GitLab")
+  - [codewars](https://www.codewars.com/users/NotAPattern "Codewars")
+  - [instagram](https://www.instagram.com/NotAPattern1 "Instagram")
+  - [github](https://www.github.com/NotAPattern "GitHub")
+  - [gitlab](https://www.gitlab.com/NotAPattern "GitLab")
   - [mail](mailto:nikita.karatsev@gmail.com "Gmail")
-  - [medium](https://www.medium.com/@onethegraph "Medium")
-  - [telegram](https://www.t.me/onethegraph "Telegram")
+  - [medium](https://www.medium.com/@notapattern "Medium")
+  - [telegram](https://www.t.me/NotAPattern "Telegram")
+	- [twitch](https://www.twitch.tv/notapattern "Twitch")
   - [spotify](https://open.spotify.com/user/ilz2empiateqi06y9t6nvu3nv "Spotify")  
-  - [vk](https://www.vk.com/onethegraph "VK")
+  - [vk](https://www.vk.com/NotAPattern "VK")
   
 # About
-I'm a Bachelor student at Omsk State University in CS.  
+I have a Bachelor degree at Omsk State University in CS. Now I'm studying for a master's degree at the Omsk State Unuversity in math faculty. 
   
 Love Windows 10 Mobile, like Windows Phone 8(8.1), Spotify, hate Microsoft.
   
