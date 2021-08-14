@@ -12,11 +12,21 @@
   - [vk](https://www.vk.com/NotAPattern "VK")
   
 # About
+<<<<<<< HEAD
 I have a Bachelor degree at Omsk State University in CS. Now I'm studying for a master's degree at the Omsk State Unuversity in math faculty. 
   
 Love Windows 10 Mobile, like Windows Phone 8(8.1), Spotify, hate Microsoft.
   
 I'm currently studying Rust.  
+=======
+I have a Bachelor degree at Omsk State University, speciality: "Mathematics and CS".
+
+Love Windows 10 Mobile, like Windows Phone 8(8.1), Spotify. Hate Microsoft (without negative).
+
+I'm currently studying Rust, in the future study Erlang/Elixir.
+
+I dream of getting a job in Yandex.
+>>>>>>> a3b77afa65e16af752547c8c1afb6f6cb1b2e605
 
 "Well, that was some experience
 Now just let me adjust the spacial controls
