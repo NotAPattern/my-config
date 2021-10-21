@@ -1,5 +1,5 @@
 # I'm in
-  - [codeforces](https://www.codeforces.com/profile/WhoIsPrivalov "Codeforces (sponsored by Telegram)")
+  - [codeforces](https://codeforces.com/profile/notapattern "Codeforces (sponsored by Telegram)")
   - [codewars](https://www.codewars.com/users/NotAPattern "Codewars")
   - [instagram](https://www.instagram.com/NotAPattern1 "Instagram")
   - [github](https://www.github.com/NotAPattern "GitHub")
