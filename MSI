@@ -1,0 +1,62 @@
+# libsensors configuration file
+# -----------------------------
+#
+# This default configuration file only includes statements which do not
+# differ from one mainboard to the next. Only label, compute and set
+# statements for internal voltage and temperature sensors are included.
+#
+# In general, local changes should not be added to this file, but rather
+# placed in custom configuration files located in /etc/sensors.d. This
+# approach makes further updates much easier.
+#
+# Such custom configuration files for specific mainboards can be found in
+# "configs" directory of lm-sensors package.
+#
+# Please contribute back a configuration of your board so other users with
+# the same hardware won't need to recreate it again and again.
+
+chip "nct6687-isa-0a20"
+    ignore in0
+    ignore in1
+    ignore in2
+    ignore in3
+    ignore in4
+    ignore in5
+    ignore in6
+    ignore in7
+    ignore in8
+    ignore in9
+    label   fan1  "CPU Fan"
+    label   fan3  "Not CPU Fan"
+    ignore  fan2
+    ignore  fan4
+    ignore  fan5
+    ignore  fan6
+    ignore  fan7
+    ignore  fan8
+    ignore  fan9
+    ignore  fan10
+
+    label   temp1  "System Temp"
+    label   temp7  "CPU Core Temp"
+
+    ignore  temp1
+    ignore  temp2
+    ignore  temp3
+    ignore  temp4
+    ignore  temp5
+    ignore  temp6
+    ignore  temp7
+    ignore  temp8
+    ignore  temp9
+    ignore  temp10
+
+    ignore  intrusion0
+    ignore  intrusion1
+
+    ignore  beep_enable
+
+chip "amdgpu-pci-3000"
+    ignore in0
+    ignore in1
+
